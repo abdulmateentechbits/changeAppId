@@ -1,4 +1,4 @@
-package com.changeid.app
+package com.demo.app
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
