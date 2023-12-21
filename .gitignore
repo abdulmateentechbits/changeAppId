@@ -64,3 +64,5 @@ yarn-error.log
 
 # testing
 /coverage
+
+change_app_id.py

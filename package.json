@@ -7,8 +7,7 @@
     "ios": "react-native run-ios",
     "lint": "eslint .",
     "start": "react-native start",
-    "test": "jest",
-    "update-build-id": "cd android && ./gradlew clean && cd .. && python3 ./change_app_id.py"
+    "test": "jest"
   },
   "dependencies": {
     "react": "18.2.0",
