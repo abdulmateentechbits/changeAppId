@@ -1,4 +1,4 @@
-package com.changeid
+package com.example.app
 
 import android.app.Application
 import com.facebook.react.PackageList
